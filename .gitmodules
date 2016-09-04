@@ -7,3 +7,6 @@
 [submodule "src/shuiwu.policy"]
 	path = src/shuiwu.policy
 	url = git@github.com:adam139/shuiwu.policy.git
+[submodule "src/plone.app.locales"]
+	path = src/plone.app.locales
+	url = https://github.com/adam18975257327/plone.app.locales.git
