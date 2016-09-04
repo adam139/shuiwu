@@ -1,0 +1,9 @@
+[submodule "src/shuiwu.theme"]
+	path = src/shuiwu.theme
+	url = git@github.com:adam139/shuiwu.theme.git
+[submodule "src/shuiwu.baoshui"]
+	path = src/shuiwu.baoshui
+	url = git@github.com:adam139/shuiwu.baoshui.git
+[submodule "src/shuiwu.policy"]
+	path = src/shuiwu.policy
+	url = git@github.com:adam139/shuiwu.policy.git
