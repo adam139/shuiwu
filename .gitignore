@@ -16,3 +16,5 @@ lib64
 .installed.cfg
 .pydevproject
 versionslastprod2.cfg
+adminPassword.txt
+README.html
