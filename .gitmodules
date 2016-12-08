@@ -10,3 +10,6 @@
 [submodule "src/plone.app.locales"]
 	path = src/plone.app.locales
 	url = https://github.com/adam18975257327/plone.app.locales.git
+[submodule "src/collective.gtags"]
+	path = src/collective.gtags
+	url = git@github.com:adam139/collective.gtags.git
